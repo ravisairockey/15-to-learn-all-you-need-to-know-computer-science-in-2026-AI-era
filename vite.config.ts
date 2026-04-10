@@ -10,8 +10,8 @@ const __dirname = path.dirname(__filename);
 
 // https://vite.dev/config/
 export default defineConfig({
-  // For GitHub Pages deployment - matches the repo name
-  base: "/15-to-learn-all-you-need-to-know-computer-science-in-2026-AI-era/",
+  // For GitHub Pages deployment - SEO optimized repo name
+  base: "/stop-tutorial-hell/",
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {
