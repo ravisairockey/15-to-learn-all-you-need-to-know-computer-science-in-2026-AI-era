@@ -15,8 +15,6 @@ A comprehensive, interactive guide to computer science fundamentals designed for
 
 **Visit the live site:** https://ravisairockey.github.io/stop-tutorial-hell/
 
-*(Replace `yourusername` with your actual GitHub username after deployment)*
-
 ---
 
 ## 📚 What's Inside?
