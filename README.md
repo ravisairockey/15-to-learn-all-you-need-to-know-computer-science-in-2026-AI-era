@@ -13,7 +13,7 @@ A comprehensive, interactive guide to computer science fundamentals designed for
 
 ## 🌐 Live Demo
 
-**Visit the live site:** https://yourusername.github.io/15-to-learn-cs-2026/
+**Visit the live site:** https://ravisairockey.github.io/stop-tutorial-hell/
 
 *(Replace `yourusername` with your actual GitHub username after deployment)*
 
